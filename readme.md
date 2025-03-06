@@ -13,7 +13,7 @@
 
 Below is a diagram depicting the ESP32 UART configuration and wiring setup:
 
-![UART Hardware Diagram](uart0&uart2.png)
+![UART Result](uart0&uart2.png)
 ![UART Hardware Diagram](uart1.png)
 
 ## Building and Uploading
